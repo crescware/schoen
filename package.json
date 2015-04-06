@@ -1,0 +1,22 @@
+{
+  "name": "schoen",
+  "version": "0.0.1",
+  "description": "The utility and library for musical pitch, frequency, note name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crescware/schoen/"
+  },
+  "keywords": [
+    "music",
+    "pitch",
+    "note name",
+    "midi",
+    "frequency"
+  ],
+  "author": "Crescware",
+  "license": "MIT"
+}
